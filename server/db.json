@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "name": "P",
+      "phone": "1",
+      "city": "W",
+      "id": 1
+    },
+    {
+      "name": "Milind",
+      "phone": "9898772345",
+      "city": "Kolhapur",
+      "id": 2
+    },
+    {
+      "name": "PPP",
+      "phone": "212",
+      "city": "Pune",
+      "id": 3
+    }
+  ]
+}
